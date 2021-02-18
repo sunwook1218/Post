@@ -6,9 +6,13 @@
 - 라이센스
 - 로드밸런싱
 - VPN
+- 네트워크 패킷
 - 방화벽
 - DB튜닝 (Oracle hint, 실행계획...)
 - OSI 7계층
 - 라우터
 - 백업 솔루션
 - 스트리밍 서버로 tomcat과 Spring
+- Maven과 Gradle, 그리고 라이브러리의 배포
+- Cloud 서비스
+- 취약점 점검과 보안
