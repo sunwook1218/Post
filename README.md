@@ -1,2 +1,14 @@
 # Post
-포스팅거리
+- 풀스택
+- WEB WAS이중화
+- Active-Standby read Replica 및 failover
+- 서버 클러스터링
+- 라이센스
+- 로드밸런싱
+- VPN
+- 방화벽
+- DB튜닝 (Oracle hint, 실행계획...)
+- OSI 7계층
+- 라우터
+- 백업 솔루션
+- 스트리밍 서버로 tomcat과 Spring
