@@ -59,3 +59,27 @@
 - Opencv & python device controll
 ## Build
 - Maven과 Gradle, 그리고 라이브러리의 배포
+
+... Repository 명명규칙
+
+# JAVA
+## Java Basic
+## Java Core Library
+### Java Util
+### Java io
+### Java nio ...
+## Java Reflection
+
+# C
+## C Basic
+## Embeded C...
+
+# C++
+
+# Python
+
+# Spring
+
+# SpringBoot
+
+# KNOU
