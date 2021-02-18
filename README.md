@@ -56,6 +56,6 @@
 - DAsP
 - Oracle java
 ## Macro
-- ?
+- Opencv & python device controll
 ## Build
 - Maven과 Gradle, 그리고 라이브러리의 배포
