@@ -70,6 +70,9 @@
 ### Java nio ...
 ## Java Reflection
 
+# Android
+## Android Basic
+
 # C
 ## C Basic
 ## Embeded C...
@@ -77,9 +80,48 @@
 # C++
 
 # Python
+## Python Basic
 
 # Spring
+## Spring Basic
+## Projects
 
 # SpringBoot
+## SpringBoot Basic
+## Projects
 
 # KNOU
+
+# ToyProjects
+## Spring-Stock-Asset
+
+# JPA
+## JPA Basic
+
+# Mybatis
+## Mybatis Basic
+
+# DB
+## SQL Basic
+## MySQL
+## Oracle
+### tuning
+### oracle hint
+### Join & Subquery
+## PostgreSQL
+## Cubrid
+
+# Server
+## ServerClustering
+## Active StandBy
+## WEB WAS 
+
+## Design Pattern
+
+# NetWork
+
+# Maven
+## Maven basic
+
+# Gradle
+## Gradle basic
