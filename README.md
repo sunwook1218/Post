@@ -1,9 +1,10 @@
 # 2021 계획
-- Spring boot sample (java config, JPA)
-- Spring sample (xml, mybatis)
+- Spring boot sample (java config, JPA, AWS)
+- Spring sample (xml, mybatis, AWS)
 - Android java sample
 - Android kotlin sample
 - Android hybrid sample
+- Docker 위 WS, WAS, MySQL
 
 # Post
 - 스프링부트 with AWS 배포
