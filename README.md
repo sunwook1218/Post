@@ -7,6 +7,7 @@
 - Docker 위 WS, WAS, MySQL
 
 # Post
+- 이 사람이 무엇에 대해 알고 있고, 이사람에게 무엇을 시켰을 때 어떤 것을 기대할 수 있는가
 - JUnit4, JUnit5 사용법
 - [MSA 아키텍처 개요](http://clipsoft.co.kr/wp/blog/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98msa-%EA%B0%9C%EB%85%90/)
 - 스프링부트 with AWS 배포
