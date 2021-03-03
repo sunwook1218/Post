@@ -12,6 +12,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - Docker 위 WS, WAS, MySQL
 
 # Post
+- Thread-safe와 Serializable [링크](https://m.blog.naver.com/PostView.nhn?blogId=complusblog&logNo=220985528418&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [MVC MVP MVVM](https://beomy.tistory.com/43) [2](https://magi82.github.io/android-mvc-mvp-mvvm/)
 - 이 사람이 무엇에 대해 알고 있고, 이사람에게 무엇을 시켰을 때 어떤 것을 기대할 수 있는가
 - JUnit4, JUnit5 사용법
