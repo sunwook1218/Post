@@ -12,7 +12,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - Docker 위 WS, WAS, MySQL
 
 # Post
-- Async한 프로세스에서 IndexOutOfBoundsException의 처리
+- Async한 프로세스에서 IndexOutOfBoundsException의 처리 [링크](https://gist.github.com/sunwook1218/94eac26c0448f5588809195a9d4fb1ec)
 - [JAVA & Spring Basic Solution](https://leejungyeoul.tistory.com/category/Java%20%26%20Spring/Solution)
 - [BigDecimal](https://jsonobject.tistory.com/466)
 - 고객의 요구사항반영과 FE와의 협업, 쿠키로 성별, 나이정보를 식별하는 방법에 대해
