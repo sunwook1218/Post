@@ -17,6 +17,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - 고객의 요구사항반영과 FE와의 협업, 쿠키로 성별, 나이정보를 식별하는 방법에 대해
 - logging, 그리고 문서화의 중요성
 - [Spring WebSocket](https://alswns1201.medium.com/spring-websocket-%EC%B1%84%ED%8C%85-c662b33dcb0b)
+ - websocket vs long polling [링크](https://demyank.tistory.com/522)
 - Thread-safe와 Serializable [링크](https://m.blog.naver.com/PostView.nhn?blogId=complusblog&logNo=220985528418&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [MVC MVP MVVM](https://beomy.tistory.com/43) [2](https://magi82.github.io/android-mvc-mvp-mvvm/)
 - 이 사람이 무엇에 대해 알고 있고, 이사람에게 무엇을 시켰을 때 어떤 것을 기대할 수 있는가
