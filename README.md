@@ -4,7 +4,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 ```
 
 # 2021 계획
-- Spring boot sample (java config, JPA, AWS)
+- Spring boot sample (java config, JPA, AWS) 
 - Spring sample (xml, mybatis, AWS)
 - Android java sample
 - Android kotlin sample
