@@ -12,6 +12,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - Docker 위 WS, WAS, MySQL
 
 # Post
+- 도메인지식이 달라서 채용면접 요청을 망설이시는 분들께 드리는 말씀 - 프레임워크, 언어는 다르지만 내가 지닌 높은[러닝커브](https://choidev-1.tistory.com/16)에 대해
 - Async한 프로세스에서 IndexOutOfBoundsException의 처리 [링크](https://gist.github.com/sunwook1218/94eac26c0448f5588809195a9d4fb1ec)
 - [JAVA & Spring Basic Solution](https://leejungyeoul.tistory.com/category/Java%20%26%20Spring/Solution)
 - [BigDecimal](https://jsonobject.tistory.com/466)
