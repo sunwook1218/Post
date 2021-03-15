@@ -20,7 +20,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - [Spring WebSocket](https://alswns1201.medium.com/spring-websocket-%EC%B1%84%ED%8C%85-c662b33dcb0b)
  - websocket vs long polling [링크](https://demyank.tistory.com/522)
 - Thread-safe와 Serializable [링크](https://m.blog.naver.com/PostView.nhn?blogId=complusblog&logNo=220985528418&proxyReferer=https:%2F%2Fwww.google.com%2F)
-- [MVC MVP MVVM](https://beomy.tistory.com/43) [2](https://magi82.github.io/android-mvc-mvp-mvvm/)
+- [MVC MVP MVVM](https://beomy.tistory.com/43) [2](https://magi82.github.io/android-mvc-mvp-mvvm/) / 안드로이드 MVVM [Example](https://github.com/AgustaRC/MVVMArchitecture)
 - 이 사람이 무엇에 대해 알고 있고, 이사람에게 무엇을 시켰을 때 어떤 것을 기대할 수 있는가
 - JUnit4, JUnit5 사용법
 - [MSA 아키텍처 개요](http://clipsoft.co.kr/wp/blog/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98msa-%EA%B0%9C%EB%85%90/)
