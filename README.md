@@ -12,6 +12,13 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - Docker 위 WS, WAS, MySQL
 
 # Post
+- Spring Cloud Routing ... Cloud LoadBalancer & GateWay
+- Spring batch, Validation, Java Mail Sender, Spring cache abstraction
+- Apache Kafka, WebSocket, Apache Camel <== messaging
+- Spring data JDBC, Mybatis, H2(Hibernate), ...
+- Spring Security, OAuth2 Client, OAuth2 Resource Server, Spring LDAP, Okta
+- Mustache <== template engine
+- WebFlux/Netty, RestRepository, SpringSession, Jersey, Vaadin <== Spring Web
 - N+1 [링크](https://jojoldu.tistory.com/165)
 - Springboot JPA 적용기 1 [링크](https://velog.io/@swchoi0329/Spring-Boot%EC%97%90%EC%84%9C-JPA-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - JNI
