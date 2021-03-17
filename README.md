@@ -12,6 +12,8 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - Docker 위 WS, WAS, MySQL
 
 # Post
+- 2 [변수 상수 객체](https://github.com/whiteship/live-study/issues/2)
+- 1 [JVM](https://jeong-pro.tistory.com/148)
 - Spring Cloud Routing ... Cloud LoadBalancer & GateWay
 - Spring batch, Validation, Java Mail Sender, Spring cache abstraction
 - Apache Kafka, WebSocket, Apache Camel <== messaging
