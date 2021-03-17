@@ -12,6 +12,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - Docker 위 WS, WAS, MySQL
 
 # Post
+- [java의 10가지 성능 이슈 최적화*](https://blog.jooq.org/2015/02/05/top-10-easy-performance-optimisations-in-java/)
 - [forloop](https://homoefficio.github.io/2016/06/26/for-loop-%EB%A5%BC-Stream-forEach-%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0/) 고수의 블로그 
 - [안티 패턴](https://it-jin-developer.tistory.com/20?category=813871)
 - & && | ||
