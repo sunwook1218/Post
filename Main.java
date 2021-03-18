@@ -11,10 +11,10 @@ import java.math.RoundingMode;
 public class Main {
     public static void main(String[] args) {
 
-        BigDecimal C = BigDecimal.valueOf("1");   // 1 대신에 C 값을 넣어주세요
-        BigDecimal R = BigDecimal.valueOf("2");   // 2 대신에 R 값을 넣어주세요
-        BigDecimal N = BigDecimal.valueOf("3");   // 3 대신에 N 값을 넣어주세요
-        BigDecimal F = BigDecimal.valueOf("4");   // 4 대신에 F 값을 넣어주세요
+        BigDecimal C = new BigDecimal("1");   // 1 대신에 C 값을 넣어주세요
+        BigDecimal R = new BigDecimal("2");   // 2 대신에 R 값을 넣어주세요
+        BigDecimal N = new BigDecimal("3");   // 3 대신에 N 값을 넣어주세요
+        BigDecimal F = new BigDecimal("4");   // 4 대신에 F 값을 넣어주세요
 
         BigDecimal result = P(C, R, N, F);
 
