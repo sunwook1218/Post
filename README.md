@@ -14,7 +14,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - Docker 위 WS, WAS, MySQL
 
 # Post
-- AWS에 Discord Bot 올리기
+- AWS에 Discord Bot 올리기 [링크](https://marshall-ku.com/web/tips/node-js%EB%A1%9C-%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [SSL](https://opentutorials.org/course/228/4894)
 - [SSL인증서만료?](https://ttend.tistory.com/804)
 - [Git branch](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html) 잘쓰기
