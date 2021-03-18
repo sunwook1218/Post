@@ -14,6 +14,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - Docker 위 WS, WAS, MySQL
 
 # Post
+- [SSL인증서만료?](https://ttend.tistory.com/804)
 - [Git branch](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html) 잘쓰기
 - ~~[SJ 이자 식]~~ [포스트](https://sunwook1218.tistory.com/3)
 - java Java에 조건부 및 조건부 또는 연산자의 복합 할당 버전이없는 이유는 무엇입니까? (&& =, || =) [링크](https://pythonq.com/so/java/52132)
