@@ -13,7 +13,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 
 # Post
 - [Git branch](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html) 잘쓰기
-- [SJ 이자 식](https://github.com/sunwook1218/Post/blob/master/Main.java) ![이자 식](KakaoTalk_20210317_104028418.png)
+- ~~[SJ 이자 식]~~(https://github.com/sunwook1218/Post/blob/master/Main.java) ![이자 식](KakaoTalk_20210317_104028418.png)
 - java Java에 조건부 및 조건부 또는 연산자의 복합 할당 버전이없는 이유는 무엇입니까? (&& =, || =) [링크](https://pythonq.com/so/java/52132)
 - 블록체인, [비트 그리고 이더리움](https://www.banksalad.com/contents/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%EC%9D%B4%EB%9E%80-3mqco)
 - [java의 10가지 성능 이슈 최적화*](https://blog.jooq.org/2015/02/05/top-10-easy-performance-optimisations-in-java/)
