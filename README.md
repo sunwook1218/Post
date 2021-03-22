@@ -70,7 +70,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - 네트워크 패킷
 - 방화벽
 - DB튜닝 (Oracle hint, 실행계획...)
-- OSI 7계층
+- OSI 7계층 [링크](https://shlee0882.tistory.com/110)
 - 라우터
 - 백업 솔루션
 - 스트리밍 서버로 tomcat과 Spring
