@@ -7,7 +7,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - 자바 ORM 표준 JPA 프로그래밍
 
 # 2021 계획
-![Making-sense-of-MVP-.jpg]
+!(Making-sense-of-MVP-.jpg)
 - Spring boot sample (java config, JPA, AWS) 
 - Spring sample (xml, mybatis, AWS)
 - Android java sample
