@@ -21,6 +21,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |Spring Legacy|SpringBoot|
 |.jsp|.mustache|
 |단순 로그인처리|Spring Security|
+|xml config|java config|
 
 # Post 
 - [Springboot logBack](https://goddaehee.tistory.com/206) 
