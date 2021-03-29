@@ -14,6 +14,11 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 - Android hybrid sample
 - Docker 위 WS, WAS, MySQL
 
+# LegacyUP Stock-Asset
+|이전|이후|
+|---|---|
+|Mybatis로 CRUD|조회는 QueryDSL CUD는 SpringDataJPA|
+
 # Post 
 - [Springboot logBack](https://goddaehee.tistory.com/206) 
 - https://programmers.co.kr/learn/challenges
