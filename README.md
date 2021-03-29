@@ -17,6 +17,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 # LegacyUP Stock-Asset
 |이전|이후|
 |---|---|
+|eclipse|IntelliJ|
 |Mybatis로 CRUD|조회는 QueryDSL CUD는 SpringDataJPA|
 |Spring Legacy|SpringBoot|
 |.jsp|.mustache|
