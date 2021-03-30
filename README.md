@@ -25,6 +25,8 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |.jsp|.mustache|
 |단순 로그인처리|Spring Security|
 |xml config|java config|
+|Log4j|Slf4j?|
+|not|excel지원|
 
 # Post 
 - [Springboot logBack](https://goddaehee.tistory.com/206) 
