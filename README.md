@@ -29,7 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post 
-- 
+- REST API server와 통신 HttpURLConnection 으로 하면서 느꼈던 점. Retrofit의 필요성에 대해 [링크](https://galid1.tistory.com/617)
 - 04/12 JWT / JOIN FETCH / Optional Class
 - [SpringBoot Guide](https://spring.io/guides#getting-started-guides)
 - [패키지 디자인 : NOT LAYER MSA아키텍처와의 관계](http://www.javapractices.com/topic/TopicAction.do?Id=205)
