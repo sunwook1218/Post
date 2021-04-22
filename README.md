@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post 
+- Kotlin Basic [링크](https://gun0912.tistory.com/81)
 - String.getBytes("charset"); [링크](https://m.blog.naver.com/writer0713/220921933255)
 - REST API server와 통신 HttpURLConnection 으로 하면서 느꼈던 점. Retrofit의 필요성에 대해 [링크](https://galid1.tistory.com/617)
 - 04/12 JWT / JOIN FETCH / Optional Class
