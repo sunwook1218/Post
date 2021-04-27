@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post 
+- uhaha.me DISQUS ? 
 - 4.23 Android JetPack LiveData, Room, ViewModel, ViewBinding&DataBinding
 - Android <-> Server JSON 통신
 - Kotlin Basic [링크](https://gun0912.tistory.com/81)
