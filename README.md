@@ -29,7 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post 
-- [신입백엔드기본] (https://zero-base.co.kr/event/media_BE_school_qna?gclid=EAIaIQobChMI5a-l4-Ca-AIVcZzCCh14rAh0EAAYAiAAEgJkQ_D_BwE)
+- [신입백엔드기본](https://zero-base.co.kr/event/media_BE_school_qna?gclid=EAIaIQobChMI5a-l4-Ca-AIVcZzCCh14rAh0EAAYAiAAEgJkQ_D_BwE)
 - Linux awk [링크](https://recipes4dev.tistory.com/171)
 - HTTP 2.0 적용 [링크](https://digitalbourgeois.tistory.com/67)
 - Spring RestTemplate를 활용해 HTTP요청하기 [링크](https://withseungryu.tistory.com/116)
