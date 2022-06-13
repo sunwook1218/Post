@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post 
+- Exception Handle (callElement Logging, Generic Type casting, slftj log option study)
 - mvnw gradlew
 - [jenkins설치docker](https://jktech.tistory.com/41)
 - [신입백엔드기본](https://zero-base.co.kr/event/media_BE_school_qna?gclid=EAIaIQobChMI5a-l4-Ca-AIVcZzCCh14rAh0EAAYAiAAEgJkQ_D_BwE)
