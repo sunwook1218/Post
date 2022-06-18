@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post 
+- 생성자 주입 권장과 그 이유 [링크](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
 - Exception Handle (callElement Logging, Generic Type casting, slftj log option study)
 - mvnw gradlew
 - [jenkins설치docker](https://jktech.tistory.com/41)
