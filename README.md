@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post 
+- 테스트 환경에서 H2 데이터베이스 적용 [링크](https://jungguji.github.io/2020/07/05/H2-DB%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Repository-Test/)
 - IaaS PaaS SaaS Infrastructure, Platform, Software
 - QueryDSL [링크](https://tecoble.techcourse.co.kr/post/2021-08-08-basic-querydsl/)
 - 생성자 주입 권장과 그 이유 [링크](https://yaboong.github.io/spring/2019/08/29/why-field-injection-is-bad/)
