@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post 
+- FileWriteUtils 등의 Utility 제작 시 File 단위 syncronize key 제공하여 같은 File에 동시에 접근하는 것을 방지 (예제 만들어 보기)
 - 테스트 환경에서 H2 데이터베이스 적용 [링크](https://jungguji.github.io/2020/07/05/H2-DB%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Repository-Test/)
 - IaaS PaaS SaaS Infrastructure, Platform, Software
 - QueryDSL [링크](https://tecoble.techcourse.co.kr/post/2021-08-08-basic-querydsl/)
