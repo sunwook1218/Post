@@ -28,7 +28,8 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |Log4j|Slf4j?|
 |not|excel지원|
 
-# Post 
+# Post
+- [쿼츠스케줄빌드잡샘플프로젝트](https://stackabuse.com/guide-to-quartz-with-spring-boot-job-scheduling-and-automation/) [멀티인스턴스잡클러스터링](https://github.com/quartz-scheduler/quartz/issues/269)
 - RxJava->Reactor->NIO->Netty->Reactor netty 리액티브 프로그래밍 공부
 - FileWriteUtils 등의 Utility 제작 시 File 단위 syncronize key 제공하여 같은 File에 동시에 접근하는 것을 방지 (예제 만들어 보기)
 - 테스트 환경에서 H2 데이터베이스 적용 [링크](https://jungguji.github.io/2020/07/05/H2-DB%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Repository-Test/)
