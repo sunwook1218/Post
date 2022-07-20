@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post
+- 대용량 데이터 처리에 대한 이해 [링크](https://hyowong.tistory.com/32)
 - [쿼츠스케줄빌드잡샘플프로젝트](https://stackabuse.com/guide-to-quartz-with-spring-boot-job-scheduling-and-automation/) [멀티인스턴스잡클러스터링](https://github.com/quartz-scheduler/quartz/issues/269)
 - RxJava->Reactor->NIO->Netty->Reactor netty 리액티브 프로그래밍 공부
 - FileWriteUtils 등의 Utility 제작 시 File 단위 syncronize key 제공하여 같은 File에 동시에 접근하는 것을 방지 (예제 만들어 보기)
