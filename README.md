@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post
+- SQLD [링크](https://yurimac.tistory.com/41)
 - AWS 자격증 [링크](https://mywarehouse.tistory.com/entry/AWS-Cloud-Practitioner-%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D-%ED%9B%84%EA%B8%B0CLF-C01)
 - 대용량 데이터 처리에 대한 이해 [링크](https://hyowong.tistory.com/32)
 - [쿼츠스케줄빌드잡샘플프로젝트](https://stackabuse.com/guide-to-quartz-with-spring-boot-job-scheduling-and-automation/) [멀티인스턴스잡클러스터링](https://github.com/quartz-scheduler/quartz/issues/269)
