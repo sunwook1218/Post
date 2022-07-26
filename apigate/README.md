@@ -10,4 +10,4 @@ User 정보로 운영하여 유저마다 API CALL 개수를 제한하고, 모니
 
 2. API Send Job 제작 : 제공 API를 기준으로 Job을 실행하여 Send할 수 있도록 함
 
-3. 
+3. 데이터 레이아웃 색출 및 재정의 - 데이터 변환 ( *** API GATEWAY 의 핵심 기능 )
