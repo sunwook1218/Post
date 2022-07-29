@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post
+- ToastUI (MIT) [링크](https://ui.toast.com/fe-guide/ko)
 - [API GATEWAY](apigate/README.md)
 - [SHA256 구현](http://www.secmem.org/blog/2019/07/21/sha256/), [해싱의복호화가 불가능한 이유 비둘기집](https://jusungpark.tistory.com/35) 
 - SQLD [링크](https://yurimac.tistory.com/41)
