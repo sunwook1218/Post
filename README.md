@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post
+- hibernate redis (jedis) [링크](http://debop.blogspot.com/2013/05/redis-hibernate-2nd-cache.html)
 - 스프링시큐리티 적용 [링크](https://velog.io/@soyeon207/%EC%8B%A4%EC%8A%B5%ED%8E%B8-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 - DTO, Entity Mapping 해결에 대한 고찰 [링크](https://k3068.tistory.com/78)
 - ToastUI (MIT) [링크](https://ui.toast.com/fe-guide/ko)
