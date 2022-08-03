@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post
+- TCP Socket Status [IBM](https://www.ibm.com/docs/en/zos/2.1.0?topic=SSLTBW_2.1.0/com.ibm.zos.v2r1.halu101/constatus.htm), [NaverBlog](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=skddms&logNo=221547825318)
 - SQL 튜닝 분류 [링크](https://programmingyoon.tistory.com/265?category=785985)
 - hibernate redis (jedis) [링크](http://debop.blogspot.com/2013/05/redis-hibernate-2nd-cache.html)
 - 스프링시큐리티 적용 [링크](https://velog.io/@soyeon207/%EC%8B%A4%EC%8A%B5%ED%8E%B8-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
