@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post
+- RxJava [링크](https://4z7l.github.io/2020/12/23/rxjava-7.html)
 - Http 1.0, 1.1, 2.0의 차이 알기 (Simulator에서 CLOSE_WAIT이슈)
 - [Spring-boot-admin으로 Spring 프로젝트 자원 모니터링](https://github.com/codecentric/spring-boot-admin)
 - TCP Socket Status [IBM](https://www.ibm.com/docs/en/zos/2.1.0?topic=SSLTBW_2.1.0/com.ibm.zos.v2r1.halu101/constatus.htm), [NaverBlog](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=skddms&logNo=221547825318)
