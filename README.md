@@ -29,6 +29,7 @@ example ) 무언가 기술 Post의 글에는 그 개념에 대한 개요. 왜 �
 |not|excel지원|
 
 # Post
+- Java Synchronized [링크](https://enumclass.tistory.com/169)
 - MessageQueue Kafka VS RabbitMQ [링크](https://www.upsolver.com/blog/kafka-versus-rabbitmq-architecture-performance-use-case)
 - RxJava [링크](https://4z7l.github.io/2020/12/23/rxjava-7.html)
 - Http 1.0, 1.1, 2.0의 차이 알기 (Simulator에서 CLOSE_WAIT이슈)
